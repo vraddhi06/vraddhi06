@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vraddhi06
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Python
-- 📫 How to reach me jvraddhi222gmail.com
+- 📫 How to reach me jvraddhi22@gmail.com
 - ⚡ Fun fact:There are over 700 different programming languages
 
 <!---
